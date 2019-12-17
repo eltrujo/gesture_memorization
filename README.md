@@ -1,1 +1,1 @@
-# gesture_memorization
+# Gesture Memorization Game
